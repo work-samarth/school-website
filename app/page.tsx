@@ -23,7 +23,7 @@ export default function Home() {
         <div className="container relative z-20 mx-auto px-4 py-24 sm:px-6 lg:flex lg:h-[600px] lg:items-center lg:px-8">
           <div className="max-w-2xl text-center sm:text-left text-white">
             <h1 className="text-4xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl">
-              Fatherson Public School
+              atherson Public School
               <span className="block text-blue-200">Chandpur, Bijnor</span>
             </h1>
             <p className="mt-6 max-w-lg text-xl">
