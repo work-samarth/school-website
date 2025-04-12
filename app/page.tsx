@@ -13,7 +13,7 @@ export default function Home() {
       <section className="relative">
         <div className="absolute inset-0 bg-gradient-to-r from-blue-900/90 to-blue-900/70 z-10" />
         <Image
-          src="/placeholder.svg?height=600&width=1600"
+          src="/images/school-building.png?height=600&width=1600"
           width={1600}
           height={600}
           alt="School campus"
